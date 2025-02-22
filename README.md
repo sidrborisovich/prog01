@@ -1,212 +1,62 @@
-# prog01
-aobut new project
-
-Auto-commit on 2025-02-18 17:26:29 | rand=34035
-
-Auto-commit on 2025-02-18 17:40:24 | rand=16741
-
-Auto-commit on 2025-02-18 18:34:55 | rand=46969
-
-Auto-commit on 2025-02-18 18:47:45 | rand=10352
-
-Auto-commit on 2025-02-18 19:00:39 | rand=37636
-
-Auto-commit on 2025-02-18 19:13:31 | rand=42981
-
-Auto-commit on 2025-02-18 19:26:21 | rand=81828
-
-Auto-commit on 2025-02-18 19:39:10 | rand=39426
-
-Auto-commit on 2025-02-18 19:52:07 | rand=27073
-
-Auto-commit on 2025-02-18 20:04:58 | rand=31238
-
-Auto-commit on 2025-02-18 20:17:52 | rand=35304
-
-Auto-commit on 2025-02-18 20:30:45 | rand=63263
-
-Auto-commit on 2025-02-18 20:43:40 | rand=44485
-
-Auto-commit on 2025-02-18 20:56:33 | rand=74231
-
-Auto-commit on 2025-02-18 21:09:27 | rand=17255
-
-Auto-commit on 2025-02-18 21:22:19 | rand=44068
-
-Auto-commit on 2025-02-18 21:35:12 | rand=76440
-
-Auto-commit on 2025-02-19 08:24:58 | rand=38680
-
-Auto-commit on 2025-02-19 08:37:54 | rand=27266
-
-Auto-commit on 2025-02-19 08:50:55 | rand=76488
-
-Auto-commit on 2025-02-19 09:03:51 | rand=63186
-
-Auto-commit on 2025-02-19 09:16:39 | rand=5238
-
-Auto-commit on 2025-02-19 09:29:38 | rand=32388
-
-Auto-commit on 2025-02-19 09:42:36 | rand=42662
-
-Auto-commit on 2025-02-19 09:55:35 | rand=20016
-
-Auto-commit on 2025-02-19 10:08:28 | rand=13977
-
-Auto-commit on 2025-02-19 10:21:26 | rand=81117
-
-Auto-commit on 2025-02-19 10:34:17 | rand=72758
-
-Auto-commit on 2025-02-19 10:47:07 | rand=93871
-
-Auto-commit on 2025-02-19 11:00:04 | rand=7479
-
-Auto-commit on 2025-02-19 11:12:57 | rand=20795
-
-Auto-commit on 2025-02-19 11:25:54 | rand=9249
-
-Auto-commit on 2025-02-19 18:37:16 | rand=6961
-
-Auto-commit on 2025-02-19 18:50:16 | rand=60071
-
-Auto-commit on 2025-02-19 19:03:12 | rand=12477
-
-Auto-commit on 2025-02-19 19:16:04 | rand=84334
-
-Auto-commit on 2025-02-19 19:28:59 | rand=76384
-
-Auto-commit on 2025-02-19 19:41:55 | rand=19772
-
-Auto-commit on 2025-02-19 19:54:44 | rand=72287
-
-Auto-commit on 2025-02-19 20:07:47 | rand=98507
-
-Auto-commit on 2025-02-19 20:20:36 | rand=77770
-
-Auto-commit on 2025-02-19 20:33:36 | rand=61273
-
-Auto-commit on 2025-02-19 20:46:29 | rand=30935
-
-Auto-commit on 2025-02-19 20:59:26 | rand=7912
-
-Auto-commit on 2025-02-19 21:12:23 | rand=16966
-
-Auto-commit on 2025-02-19 21:25:18 | rand=33543
-
-Auto-commit on 2025-02-19 21:38:16 | rand=90956
-
-Auto-commit on 2025-02-20 09:43:33 | rand=88952
-
-Auto-commit on 2025-02-20 14:19:21 | rand=39849
-
-Auto-commit on 2025-02-20 14:31:27 | rand=55842
-
-Auto-commit on 2025-02-20 14:43:36 | rand=25697
-
-Auto-commit on 2025-02-20 14:55:37 | rand=80641
-
-Auto-commit on 2025-02-20 15:07:33 | rand=22412
-
-Auto-commit on 2025-02-20 15:19:41 | rand=75031
-
-Auto-commit on 2025-02-20 15:31:42 | rand=25004
-
-Auto-commit on 2025-02-20 15:43:48 | rand=21707
-
-Auto-commit on 2025-02-20 15:55:55 | rand=59137
-
-Auto-commit on 2025-02-20 16:08:03 | rand=55565
-
-Auto-commit on 2025-02-20 16:20:05 | rand=977
-
-Auto-commit on 2025-02-20 16:32:12 | rand=81643
-
-Auto-commit on 2025-02-20 16:44:22 | rand=92099
-
-Auto-commit on 2025-02-20 16:56:24 | rand=45201
-
-Auto-commit on 2025-02-20 17:08:35 | rand=63030
-
-Auto-commit on 2025-02-21 15:22:12 | rand=61715
-
-Auto-commit on 2025-02-21 15:34:17 | rand=40885
-
-Auto-commit on 2025-02-21 15:46:17 | rand=82432
-
-Auto-commit on 2025-02-21 15:58:14 | rand=96578
-
-Auto-commit on 2025-02-21 16:10:09 | rand=95502
-
-Auto-commit on 2025-02-21 16:22:06 | rand=80480
-
-Auto-commit on 2025-02-21 16:34:06 | rand=22500
-
-Auto-commit on 2025-02-21 16:46:10 | rand=95894
-
-Auto-commit on 2025-02-21 16:58:13 | rand=34989
-
-Auto-commit on 2025-02-21 17:10:10 | rand=12037
-
-Auto-commit on 2025-02-21 17:22:11 | rand=30750
-
-Auto-commit on 2025-02-21 17:34:12 | rand=52225
-
-Auto-commit on 2025-02-21 17:46:09 | rand=21419
-
-Auto-commit on 2025-02-21 17:58:09 | rand=53969
-
-Auto-commit on 2025-02-21 18:10:08 | rand=5197
-
-Auto-commit on 2025-02-22 00:28:26 | rand=53482
-
-Auto-commit on 2025-02-22 00:40:34 | rand=15791
-
-Auto-commit on 2025-02-22 00:52:37 | rand=10509
-
-Auto-commit on 2025-02-22 01:04:39 | rand=71395
-
-Auto-commit on 2025-02-22 01:16:40 | rand=69813
-
-Auto-commit on 2025-02-22 01:28:48 | rand=58130
-
-Auto-commit on 2025-02-22 01:40:47 | rand=53475
-
-Auto-commit on 2025-02-22 01:52:53 | rand=45831
-
-Auto-commit on 2025-02-22 02:04:51 | rand=34352
-
-Auto-commit on 2025-02-22 02:16:59 | rand=5108
-
-Auto-commit on 2025-02-22 02:29:07 | rand=61741
-
-Auto-commit on 2025-02-22 02:41:16 | rand=11817
-
-Auto-commit on 2025-02-22 02:53:19 | rand=93403
-
-Auto-commit on 2025-02-22 03:05:31 | rand=32505
-
-Auto-commit on 2025-02-22 03:17:41 | rand=90520
-
-Auto-commit on 2025-02-22 14:57:36 | rand=49832
-
-Auto-commit on 2025-02-22 15:09:42 | rand=70791
-
-Auto-commit on 2025-02-22 15:21:46 | rand=49331
-
-Auto-commit on 2025-02-22 15:33:52 | rand=78465
-
-Auto-commit on 2025-02-22 15:45:52 | rand=30607
-
-Auto-commit on 2025-02-22 15:57:58 | rand=65825
-
-Auto-commit on 2025-02-22 16:10:03 | rand=58615
-
-Auto-commit on 2025-02-22 16:22:02 | rand=41009
-
-Auto-commit on 2025-02-22 16:34:03 | rand=25098
-
-Auto-commit on 2025-02-22 16:46:04 | rand=30392
-
-Auto-commit on 2025-02-22 16:58:08 | rand=68680
-
-Auto-commit on 2025-02-22 17:10:07 | rand=49867
+![Async Logo](https://raw.githubusercontent.com/caolan/async/master/logo/async-logo_readme.jpg)
+
+[![Build Status via Travis CI](https://travis-ci.org/caolan/async.svg?branch=master)](https://travis-ci.org/caolan/async)
+[![Build Status via Azure Pipelines](https://dev.azure.com/caolanmcmahon/async/_apis/build/status/caolan.async?branchName=master)](https://dev.azure.com/caolanmcmahon/async/_build/latest?definitionId=1&branchName=master)
+[![NPM version](https://img.shields.io/npm/v/async.svg)](https://www.npmjs.com/package/async)
+[![Coverage Status](https://coveralls.io/repos/caolan/async/badge.svg?branch=master)](https://coveralls.io/r/caolan/async?branch=master)
+[![Join the chat at https://gitter.im/caolan/async](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/caolan/async?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+[![jsDelivr Hits](https://data.jsdelivr.com/v1/package/npm/async/badge?style=rounded)](https://www.jsdelivr.com/package/npm/async)
+
+<!--
+|Linux|Windows|MacOS|
+|-|-|-|
+|[![Linux Build Status](https://dev.azure.com/caolanmcmahon/async/_apis/build/status/caolan.async?branchName=master&jobName=Linux&configuration=Linux%20node_10_x)](https://dev.azure.com/caolanmcmahon/async/_build/latest?definitionId=1&branchName=master) | [![Windows Build Status](https://dev.azure.com/caolanmcmahon/async/_apis/build/status/caolan.async?branchName=master&jobName=Windows&configuration=Windows%20node_10_x)](https://dev.azure.com/caolanmcmahon/async/_build/latest?definitionId=1&branchName=master) | [![MacOS Build Status](https://dev.azure.com/caolanmcmahon/async/_apis/build/status/caolan.async?branchName=master&jobName=OSX&configuration=OSX%20node_10_x)](https://dev.azure.com/caolanmcmahon/async/_build/latest?definitionId=1&branchName=master)| -->
+
+Async is a utility module which provides straight-forward, powerful functions for working with [asynchronous JavaScript](http://caolan.github.io/async/v3/global.html). Although originally designed for use with [Node.js](https://nodejs.org/) and installable via `npm i async`, it can also be used directly in the browser.  A ESM/MJS version is included in the main `async` package that should automatically be used with compatible bundlers such as Webpack and Rollup.
+
+A pure ESM version of Async is available as [`async-es`](https://www.npmjs.com/package/async-es).
+
+For Documentation, visit <https://caolan.github.io/async/>
+
+*For Async v1.5.x documentation, go [HERE](https://github.com/caolan/async/blob/v1.5.2/README.md)*
+
+
+```javascript
+// for use with Node-style callbacks...
+var async = require("async");
+
+var obj = {dev: "/dev.json", test: "/test.json", prod: "/prod.json"};
+var configs = {};
+
+async.forEachOf(obj, (value, key, callback) => {
+    fs.readFile(__dirname + value, "utf8", (err, data) => {
+        if (err) return callback(err);
+        try {
+            configs[key] = JSON.parse(data);
+        } catch (e) {
+            return callback(e);
+        }
+        callback();
+    });
+}, err => {
+    if (err) console.error(err.message);
+    // configs is now a map of JSON data
+    doSomethingWith(configs);
+});
+```
+
+```javascript
+var async = require("async");
+
+// ...or ES2017 async functions
+async.mapLimit(urls, 5, async function(url) {
+    const response = await fetch(url)
+    return response.body
+}, (err, results) => {
+    if (err) throw err
+    // results is now an array of the response bodies
+    console.log(results)
+})
+```
+
+Auto-commit on 2025-02-22 17:22:18 | rand=75842
